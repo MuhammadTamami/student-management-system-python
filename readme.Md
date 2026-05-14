@@ -12,4 +12,4 @@ Tech :
 - CLI
 
 Run : 
-py sms.py
+py main.py
